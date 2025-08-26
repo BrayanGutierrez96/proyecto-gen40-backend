@@ -1,0 +1,25 @@
+.contact {
+    display: flex;
+
+    width: 50%;
+    height: 100vh;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
+}
+.form-contact{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 20px ;
+    background-color: #7c8bfc38;
+}
+input{
+    width: 60%;
+}
